@@ -1,4 +1,4 @@
-# final_timothy_mason_csci5922_s20
+
 Music Genre classification via CRNN.  Timothy Mason's final project for CU Boulder CSCI 5922, spring 2020 term.
 
 Reproducing the results from the paper "CONVOLUTIONAL RECURRENT NEURAL NETWORKS FOR MUSIC CLASSIFICATION"
